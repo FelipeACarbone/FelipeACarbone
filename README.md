@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Felipe Carbone</h1>
 <h3 align="center">Apaixonado por análise e ciências de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning e MySql**
+- 🌱 Atualmente possou conhecimentos em **Python, Machine Learning e MySql**
 
 - 📫 Você me encontra através do LinkedIn **https://www.linkedin.com/in/felipeacarbone/**
 - 📫 Meu e-mail de contato: **fecarbone@gmail.com**
