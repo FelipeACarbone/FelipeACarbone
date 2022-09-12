@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Machine Learning e MySql**
 
-- 📫 Você me encontra através do LinkedIn **https://www.linkedin.com/in/felipe-carbone-415488106/**
+- 📫 Você me encontra através do LinkedIn **https://www.linkedin.com/in/felipeacarbone/**
 - 📫 Meu e-mail de contato: **fecarbone@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
