@@ -5,7 +5,7 @@
 
 - 📫 Você me encontra através do LinkedIn **https://www.linkedin.com/in/felipeacarbone/**
 - 📫 Meu e-mail de contato: **fecarbone@gmail.com**
-- 👀 Acesse meu portfólio : 
+- :green_book: Acesse meu portfólio : https://bit.ly/portfolio_felipe_carbone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
