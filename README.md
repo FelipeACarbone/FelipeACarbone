@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Felipe Carbone</h1>
-<h3 align="center">Apaixonado por análise e ciências de dados</h3>
+<h3 align="center"> Análise e Ciências de Dados</h3>
 
 - 🌱 Atualmente possou conhecimentos em **Python, Machine Learning e MySql**
 
